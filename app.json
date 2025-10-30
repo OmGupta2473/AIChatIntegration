@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "awkward-red-peach",
+    "slug": "snack-3dd3be92-59bc-4b63-8a38-70aec78873b2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.adityajain.snack3dd3be9259bc4b638a3870aec78873b2"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aaf3a630-e16e-42f7-b0e5-722cb2d865d8"
+      }
+    }
+  }
+}
